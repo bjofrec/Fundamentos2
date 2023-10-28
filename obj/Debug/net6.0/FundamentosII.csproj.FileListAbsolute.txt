@@ -1,0 +1,15 @@
+C:\Users\brand\Desktop\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.exe
+C:\Users\brand\Desktop\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.deps.json
+C:\Users\brand\Desktop\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.runtimeconfig.json
+C:\Users\brand\Desktop\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.dll
+C:\Users\brand\Desktop\C#\FundamentosII\bin\Debug\net6.0\FundamentosII.pdb
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.csproj.AssemblyReference.cache
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.AssemblyInfoInputs.cache
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.AssemblyInfo.cs
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.dll
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\refint\FundamentosII.dll
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.pdb
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\FundamentosII.genruntimeconfig.cache
+C:\Users\brand\Desktop\C#\FundamentosII\obj\Debug\net6.0\ref\FundamentosII.dll
